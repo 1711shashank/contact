@@ -1,0 +1,13 @@
+.social-link{
+	padding: 10px 10px 10px 10px;	
+	color: white;
+	display: inline-block;
+	background-color: none;
+	border-radius: 100%;
+
+}
+
+.social-link:hover{
+	box-shadow: 0 0 50px white; 	
+}
+
